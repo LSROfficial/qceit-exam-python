@@ -8,4 +8,4 @@ If you had never known Python, even not coding before, I personally recommend th
 
 If you are a new-one, please start from the [easy documentation](/一级%20Level%201/一级_简单版_en_us.md).
 
-If you have known a bit of Python, please start from the [standard documentation](/一级%20Level%201/一级_标准版_en_us.md)
+If you have known a bit of Python, please start from the [standard documentation](/一级%20Level%201/一级_标准版_en_us.md).
